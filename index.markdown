@@ -14,8 +14,10 @@ Hi! I'm chimpaznee. I'm a puzzler, among other things.
 
 Here are some things I wrote:
 
-- a
+- (This is a work in progress)
 
 <h3>Writeups</h3>
 
 This is a work in progress
+
+- <a href="./jekyll/update/2025/09/21/welcome-to-jekyll.html">September 22, 2025: Galactic Puzzle Hunt 2025 Recap</a>
