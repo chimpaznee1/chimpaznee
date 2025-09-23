@@ -5,10 +5,9 @@
 layout: default
 ---
 
-
 <h1>chimpaznee's puzzles</h1>
 <hr>
-Hi! I'm chimpaznee. I'm a puzzler, among other things.
+Hi! I'm chimpaznee. I like to write and solve puzzles in puzzlehunts.
 
 <h3>My Work</h3>
 
@@ -18,6 +17,4 @@ Here are some things I wrote:
 
 <h3>Writeups</h3>
 
-This is a work in progress
-
-- <a href="./jekyll/update/2025/09/21/welcome-to-jekyll.html">September 22, 2025: Galactic Puzzle Hunt 2025 Recap</a>
+- <a href="./jekyll/update/2025/09/23/gph-2025-recap.html">September 23, 2025: Galactic Puzzle Hunt 2025 Recap</a>
