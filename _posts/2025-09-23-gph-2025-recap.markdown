@@ -4,7 +4,7 @@ title:  "Galactic Puzzle Hunt 2025 Recap"
 date:   2025-09-23
 categories: jekyll update
 ---
-This is my first recap post! I have a lot to say about various hunts, and there has been a lot of noise about this one in particular. I'll warn you that this post contains unmarked spoilers for GPH 2025, including many puzzles and a few answers, so I recommend only reading it after trying out the hunt.
+This is my first recap post! I have a lot to say about various hunts, and there has been a lot of noise about this one in particular. I'll warn you that this post contains unmarked spoilers for <a href="https://2025.galacticpuzzlehunt.com/">GPH 2025</a>, including many puzzles and a few answers, so I recommend only reading it after trying out the hunt.
 
 This was my fifth GPH. Instead of hunting with my usual team, the ECs, I solved with Vehemence, a group I've only heard good things about. My team of 8, <b>Vehem-I'd like to make myself believe that planet Earth turns slowly</b>, finished at rank 36 after slightly more than a week. As usual, Galactic made a cool hunt that I enjoyed, especially because I saw a lot of it<sup id="fnref1"><a href="#footnote1">[1]</a></sup>. With no ECPH on the horizon<sup id="fnref2"><a href="#footnote2">[2]</a></sup>, I'm glad Galactic wrote a proper difficult hunt once again. I'll preemptively apologize for not including any links to puzzles, but due to the nature of this hunt, the puzzle pages are mostly just empty spaces. It was up to the solvers to put the pieces in them. In this writeup, I put the names of rounds in <b>bold</b> and the puzzles in <i>italics</i>.
 
