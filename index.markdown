@@ -11,8 +11,8 @@ Hi! I'm chimpaznee. I like to write and solve puzzles. Welcome to my page!
 Here are some things I wrote:
 
 <ul>
-<li><a href="./chimpaznee/pages/ecph.html">Some puzzles</a> for both iterations of the EC Puzzle Hunt</li>
-<li>A bunch of <a href="./chimpaznee/pages/standalone.html">standalone puzzles</a></li>
+<li><a href="./pages/ecph.html">Some puzzles</a> for both iterations of the EC Puzzle Hunt</li>
+<li>A bunch of <a href="./pages/standalone.html">standalone puzzles</a></li>
 </ul>
 
 <h3>Writeups</h3>
