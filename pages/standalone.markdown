@@ -89,8 +89,8 @@ I wrote a version of this puzzle for <a href="https://enigmarch.com/">Enigmarch<
 	<tr><td>E</td><td>Y</td><td>L</td><td>A</td><td>N</td><td>I</td><td>L</td><td>W</td><td>S</td><td>A</td><td>P</td><td>O</td><td>R</td><td>C</td><td>D</td><td>F</td><td>O</td><td>W</td></tr>
 	<tr><td>R</td><td>I</td><td>C</td><td>H</td><td>L</td><td>B</td><td>L</td><td>O</td><td>R</td><td>R</td><td>S</td><td>W</td><td>A</td><td>C</td><td>K</td><td>A</td><td>V</td><td>N</td></tr>
 	<tr><td>T</td><td>D</td><td>L</td><td>A</td><td>S</td><td>N</td><td>T</td><td>L</td><td>S</td><td>Y</td><td>A</td><td>L</td><td>L</td><td>O</td><td>H</td><td>O</td><td>U</td><td>L</td></tr>
-	<tr><td>S</td><td>T</td><td>U</td><td>F</td><td>F</td><td>I</td><td>H</td><td>E</td><td>W</td><td>R</td><td>L</td><td>B</td><td>I</td><td>R</td><td>R</td><td>D</td><td>S</td><td>T</td></tr>
-	<tr><td>O</td><td>I</td><td>P</td><td>N</td><td>W</td><td>H</td><td>I</td><td>N</td><td>A</td><td>T</td><td>L</td><td>I</td><td>B</td><td>N</td><td>E</td><td>E</td><td>R</td><td>U</td></tr>
+	<tr><td>S</td><td>T</td><td>U</td><td>F</td><td>F</td><td>I</td><td>H</td><td>E</td><td>W</td><td>R</td><td>L</td><td>B</td><td>N</td><td>R</td><td>B</td><td>I</td><td>R</td><td>T</td></tr>
+	<tr><td>O</td><td>D</td><td>P</td><td>S</td><td>I</td><td>N</td><td>W</td><td>N</td><td>A</td><td>H</td><td>L</td><td>I</td><td>I</td><td>T</td><td>E</td><td>E</td><td>R</td><td>U</td></tr>
 </table></center>
 
 ALBATROSS
