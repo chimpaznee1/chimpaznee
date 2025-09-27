@@ -1,19 +1,19 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
 <h1>chimpaznee's puzzles</h1>
 <hr>
-Hi! I'm chimpaznee. I like to write and solve puzzles in puzzlehunts.
+Hi! I'm chimpaznee. I like to write and solve puzzles. Welcome to my page!
 
 <h3>My Work</h3>
 
 Here are some things I wrote:
 
-- (This is a work in progress)
+<ul>
+<li><a href="./chimpaznee/pages/ecph.html">Some puzzles</a> for both iterations of the EC Puzzle Hunt</li>
+<li>A bunch of <a href="./chimpaznee/pages/standalone.html">standalone puzzles</a></li>
+</ul>
 
 <h3>Writeups</h3>
 

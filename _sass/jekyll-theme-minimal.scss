@@ -2,8 +2,8 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
-  padding:50px;
+  background-color: #aaa;
+  padding:25px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size:16px;
   color:#292929;
@@ -57,7 +57,10 @@ a:hover small {
 }
 
 .wrapper {
+  border-radius: 8px;
+  background-color: #ddd;
   width:860px;
+  padding: 10px;
   margin:0 auto;
 }
 
@@ -198,7 +201,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#aaa;
   height:1px;
   margin:0 0 20px;
 }
