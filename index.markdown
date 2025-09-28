@@ -18,3 +18,4 @@ Here are some things I wrote:
 <h3>Writeups</h3>
 
 - <a href="./jekyll/update/2025/09/23/gph-2025-recap.html">September 23, 2025: Galactic Puzzle Hunt 2025 Recap</a>
+- <a href="./jekyll/update/2025/09/28/penchant-recap.html">September 28, 2025: Penchant: A Two Days' Mistake</a>
